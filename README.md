@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChamikaJayan
-- 👀 I’m interested in C,C++
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in Frontend Developer
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Email
 - 😄 Pronouns: None
